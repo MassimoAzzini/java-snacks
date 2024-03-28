@@ -25,5 +25,6 @@ public class Snack4 {
             System.out.println("Parola non palindroma");
         }
 
+        scan.close();
     }
 }
