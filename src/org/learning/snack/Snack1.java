@@ -18,6 +18,7 @@ public class Snack1 {
             System.out.println("Bravo!");
         }
 
+
         scan.close();
     }
 }
